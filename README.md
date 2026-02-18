@@ -1,4 +1,4 @@
-# Magic-Quick-Typer-Instant Automate Your Typing (Demo Version)
+# Magic-Quick-Typer-Instant Automate Your Typing 
 Magic Quick Typer - is a Text Expander ( Tiny shortcut text into long text ) And Auto Form filler utility powered by AutoHotkey v2.
 Its lets you turn tiny shortcuts (Hotstring or Hotkey) into long text instantly, fully customizable from Excel without editing scripts.
 

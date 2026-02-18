@@ -2,7 +2,7 @@
 Magic Quick Typer - is a Text Expander ( Tiny shortcut text into long text ) And Auto Form filler utility powered by AutoHotkey v2.
 Its lets you turn tiny shortcuts (Hotstring or Hotkey) into long text instantly, fully customizable from Excel without editing scripts.
 
-If you Need Full .exe Version or AHK V2 Version Contact Me At instantautomate@gmail.com
+Contact Me At instantautomate@gmail.com
 # How it works
 Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
  1. Type → **Hotstring** _(Shortcut Text)_ or **Hotkey** _(shortcut key)_

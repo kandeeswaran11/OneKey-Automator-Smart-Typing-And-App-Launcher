@@ -1,4 +1,4 @@
-# Magic-Quick-Typer-Instant Automate Your Typing And launch Files, Folders and Apps....
+# OneKey-Automator - Instant Automate Your Typing And launch Files, Folders and Apps
 A simple but powerful way to expand text, launch files, 
 fill forms, and save time on repetitive tasks. fully customizable from Excel without editing scripts.
 **For more details, please refer to the guideline PDF.**
@@ -52,7 +52,7 @@ Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
 from the official site: https://www.autohotkey.com/download/
 Complete the installation (default options are fine).
 2. Github Repo Link- https://github.com/kandeeswaran11/OneKey-Automator-Smart-Typing-And-App-Launcher
-3. Download the Magic Quick Typer from Repo. Extract the ZIP file to a folder on your PC (example: C:\MagicQuickTyper).
+3. Download the **Magic Quick Typer.ahk** from Repo. Extract the ZIP file to a folder on your PC (example: C:\OneKey-Automator).
 5. Open __Magic Quick Typer.ahk__ script → It reads the Excel file and auto-creates the hotkeys & hotstrings.
 6. Use in daily typing:
 7. Edit Excel file anytime → Restart the script → Your new shortcuts are ready.
